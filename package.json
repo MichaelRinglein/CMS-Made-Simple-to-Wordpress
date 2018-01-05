@@ -1,9 +1,8 @@
 {
-  "name": "node-web-scrape",
+  "name": "CMS Made Simple to Wordpress",
   "version": "0.0.1",
-  "description": "Scrape le web.",
-  "main": "server.js",
-  "author": "Scotch",
+  "description": "CMS Made Simple to WordPress",
+  "author": "Michael Ringlein",
   "dependencies": {
     "cheerio": "latest",
     "express": "latest",
